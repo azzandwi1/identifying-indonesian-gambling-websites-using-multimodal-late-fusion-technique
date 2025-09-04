@@ -1,7 +1,7 @@
 # Identifying Indonesian Gambling Websites Using Multimodal Late Fusion Technique
 
 This repository contains the implementation of my undergraduate thesis: **"Penerapan Multimodal Late Fusion untuk Identifikasi Situs Web Judi Online di Indonesia"**.
-The research focuses on experimenting with multimodal deep learning models to detect online gambling websites in Indonesia by combining **visual (screenshot)** and **textual (OCR-extracted content)** features using using a late fusion strategy.
+The research focuses on experimenting with multimodal deep learning models to detect online gambling websites in Indonesia by combining **visual (screenshot)** and **textual (OCR-extracted content)** features using a late fusion strategy.
 
 ---
 
